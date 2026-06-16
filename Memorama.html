@@ -1,0 +1,181 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Sur en pares</title>
+</head>
+<body>
+
+  <section id="startScreen" class="start-screen">
+    <div class="cover-card">
+      <div class="cover-frame">
+
+        <img class="cover-img" src="surenpares_portada.jpeg" alt="Portada de Sur en pares">
+      </div>
+      <p class="eyebrow">Memorama cultural</p>
+      <h1>Sur en pares</h1>
+      <div class="home-actions">
+        <button id="startButton" class="btn primary" type="button">Comenzar</button>
+        <button id="multiplayerButton" class="btn primary" type="button">Multijugador</button>
+        <button id="instructionsButton" class="btn light" type="button">Instrucciones</button>
+        <button id="creditsButton" class="btn light" type="button">Creditos</button>
+        <button id="startSoundToggle" class="btn sound wide" type="button">Silenciar juego</button>
+      </div>
+    </div>
+  </section>
+
+  <header id="mainHeader" class="app-header hidden">
+    <p class="eyebrow">Memorama cultural</p>
+    <h1>Sur en pares</h1>
+    <p>Elige un estado, encuentra sus pares y desbloquea el nivel secreto.</p>
+  </header>
+
+  <main id="appMain" class="app-main hidden">
+    <section id="stateScreen" class="screen state-screen">
+      <div class="screen-top-actions">
+        <button id="homeFromStatesButton" class="home-back-btn" type="button">&larr; Inicio</button>
+        <button id="stateSoundToggle" class="btn sound top-sound" type="button">Silenciar juego</button>
+      </div>
+      <div class="state-intro">
+        <h2>Selecciona un estado</h2>
+        <p>Guerrero, Oaxaca, Chiapas, Yucatan o Quintana Roo.</p>
+      </div>
+
+      <div id="stateGrid" class="card-grid state-grid"></div>
+    </section>
+
+    <section id="levelScreen" class="screen hidden">
+      <div class="screen-top-actions">
+        <button id="backToStatesButton" class="icon-btn" type="button" aria-label="Volver a estados">&larr;</button>
+        <button id="levelSoundToggle" class="btn sound top-sound" type="button">Silenciar juego</button>
+      </div>
+      <div class="bar">
+        <div class="level-title">
+          <img id="selectedStateImage" class="state-title-img hidden" src="" alt="">
+          <p id="selectedStateRegion" class="eyebrow">Seleccion de niveles</p>
+          <h2 id="selectedStateName">Niveles</h2>
+        </div>
+      </div>
+      <p id="levelHint" class="hint"></p>
+
+      <div id="levelGrid" class="card-grid"></div>
+    </section>
+
+    <section id="gameScreen" class="screen game-screen hidden">
+      <div class="bar game-bar">
+        <button id="backToLevelsButton" class="icon-btn" type="button" aria-label="Volver a niveles">&larr;</button>
+        <div>
+          <p id="gameStateLabel" class="eyebrow">Estado</p>
+          <h2 id="gameLevelLabel">Nivel</h2>
+        </div>
+        <button id="pauseButton" class="btn" type="button">Pausa</button>
+      </div>
+
+      <div class="stats">
+        <p>Aciertos <strong id="matchesText">0/0</strong></p>
+        <p>Tiempo <strong id="timerText">00:00</strong></p>
+        <p>Movimientos <strong id="movesText">0</strong></p>
+      </div>
+
+      <div id="multiPanel" class="multi-panel hidden">
+        <p id="turnText">Turno</p>
+        <div class="multi-scores">
+          <span id="playerOneScore">Jugador 1: 0 tarjetas</span>
+          <span id="playerTwoScore">Jugador 2: 0 tarjetas</span>
+        </div>
+      </div>
+
+      <div id="board" class="board"></div>
+
+      <div id="characterPanel" class="character-panel hidden" aria-live="polite">
+        <img id="characterImage" src="" alt="Nojoli">
+        <div class="character-speech">
+          <p class="eyebrow">Nojoli</p>
+          <p id="characterText"></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="instructionsModal" class="modal hidden" role="dialog" aria-modal="true">
+    <section class="box"><p class="eyebrow">Antes de jugar</p><h2>Como jugar</h2>
+      <p>Elige un estado y un nivel. Voltea dos cartas por turno; si son iguales, se quedan descubiertas. Si no coinciden, se ocultan de nuevo.</p>
+      <p>Ganas al encontrar todos los pares antes de que termine el tiempo. Hay un nivel secreto: aparece cuando superas el reto del nivel Dificil con muy buen ritmo.</p>
+      <button id="closeInstructionsButton" class="btn" type="button">Entendido</button>
+    </section>
+  </div>
+
+  <div id="creditsModal" class="modal hidden" role="dialog" aria-modal="true">
+    <section class="box credits-box"><p class="eyebrow">Creditos</p>
+      <h2>Sur en Pares</h2>
+      <div class="credits-list">
+        <section><h3>Desarrollo del juego</h3><p>Juego desarrollado en HTML, CSS y JavaScript.</p><p>Programacion, diseno de interfaz y organizacion del proyecto: [Tu nombre]</p></section>
+        <section><h3>Idea y concepto</h3><p>Sur en Pares es un memorama inspirado en la cultura, lugares, elementos representativos y datos curiosos de estados del sur de Mexico.</p></section>
+        <section><h3>Musica</h3><p>Musica de fondo generada con una aplicacion web.</p><p>Herramienta utilizada: [Nombre de la aplicacion o sitio web]</p></section>
+        <section><h3>Efectos de sonido</h3><p>Efectos de sonido para botones creados con Chiptone.</p><p>Herramienta utilizada: Chiptone</p></section>
+        <section><h3>Imagenes y recursos visuales</h3><p>Algunas imagenes utilizadas en el juego fueron tomadas de diferentes sitios web con fines educativos y de apoyo visual.</p><p>Fuentes de imagenes:</p><ul><li>[Nombre del sitio o autor 1]</li><li>[Nombre del sitio o autor 2]</li><li>[Nombre del sitio o autor 3]</li></ul></section>
+        <section><h3>Imagenes generadas por inteligencia artificial</h3><p>Algunas imagenes fueron generadas con herramientas de inteligencia artificial para complementar el diseno visual del juego.</p><p>Herramienta utilizada: [Nombre de la IA o aplicacion]</p></section>
+        <section><h3>Diseno visual</h3><p>Diseno de cartas, menus, botones, pantallas de nivel y elementos visuales adaptados para el juego Sur en Pares.</p><p>Diseno y edicion: [Tu nombre]</p></section>
+        <section><h3>Contenido cultural y datos curiosos</h3><p>Datos e informacion utilizados para representar aspectos culturales, turisticos y tradicionales de Guerrero, Oaxaca, Chiapas, Yucatan y Quintana Roo.</p><p>Recopilacion y adaptacion de contenido: [Tu nombre]</p></section>
+        <section><h3>Agradecimientos</h3><p>Agradecimientos a las herramientas, recursos digitales y sitios utilizados como apoyo para la creacion de este proyecto.</p></section>
+        <section><h3>Nota</h3><p>Este juego fue creado con fines educativos y academicos. Los recursos visuales, musicales y sonoros pertenecen a sus respectivos autores o plataformas de origen.</p></section>
+      </div>
+      <button id="closeCreditsButton" class="btn" type="button">Cerrar</button>
+    </section>
+  </div>
+
+  <div id="playersModal" class="modal hidden" role="dialog" aria-modal="true">
+    <section class="box player-box"><p class="eyebrow">Multijugador</p><h2>Jugadores</h2>
+      <div class="player-form">
+        <label class="player-field">Jugador 1 <input id="playerOneInput" type="text" maxlength="18" value="Jugador 1"></label>
+        <label class="player-field">Jugador 2 <input id="playerTwoInput" type="text" maxlength="18" value="Jugador 2"></label>
+      </div>
+      <div class="home-actions">
+        <button id="playersStartButton" class="btn primary" type="button">Continuar</button>
+        <button id="playersCancelButton" class="btn light" type="button">Cancelar</button>
+      </div>
+    </section>
+  </div>
+
+  <div id="pauseModal" class="modal hidden" role="dialog" aria-modal="true">
+    <section class="box"><h2>Pausa</h2>
+      <button id="resumeButton" class="btn" type="button">Reanudar</button>
+      <button id="pauseLevelsButton" class="btn success" type="button">Seleccionar nivel</button>
+      <button id="pauseHomeButton" class="btn light" type="button">Menu de inicio</button>
+      <div class="toggle"><span>Sonido</span><button id="soundToggle" class="btn small" type="button">Activado</button></div>
+      <div class="toggle"><span>Vibracion</span><button id="vibrationToggle" class="btn small" type="button">Activada</button></div>
+      <div class="toggle"><span>Nojoli</span><button id="characterToggle" class="btn small" type="button">Activada</button></div>
+    </section>
+  </div>
+
+  <div id="factModal" class="modal hidden" role="dialog" aria-modal="true">
+    <section class="box fact-box">
+      <div class="media">
+
+        <img id="factImage" class="hidden" src="" alt="">
+        <span id="factPlaceholder">Imagen del dato curioso</span>
+      </div>
+      <p id="factStateLabel" class="eyebrow">Dato curioso</p><h2 id="factTitle">Dato curioso</h2><p id="factText"></p>
+      <button id="factContinueButton" class="btn" type="button">Continuar</button>
+    </section>
+  </div>
+
+  <div id="resultModal" class="modal hidden" role="dialog" aria-modal="true">
+    <section class="box"><p id="resultStateLabel" class="eyebrow">Resultado</p><h2 id="resultTitle">Partida terminada</h2><p id="resultText"></p>
+      <button id="replayButton" class="btn" type="button">Jugar otra vez</button>
+      <button id="resultStatesButton" class="btn light" type="button">Seleccionar estado</button>
+      <button id="resultHomeButton" class="btn light" type="button">Menu de inicio</button>
+    </section>
+  </div>
+
+  <audio id="menuMusic" loop preload="auto"></audio>
+  <audio id="gameMusic" loop preload="auto"></audio>
+  <script src="fact-images.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
+
