@@ -1,0 +1,500 @@
+{
+  "assets/cartas/guerrero/taxco.jpg": {
+    "label": "Taxco",
+    "query": "Taxco Guerrero Mexico"
+  },
+  "assets/cartas/guerrero/acapulco.jpg": {
+    "label": "Acapulco",
+    "query": "Acapulco Guerrero Mexico"
+  },
+  "assets/cartas/guerrero/pozole.jpg": {
+    "label": "Pozole",
+    "query": "Pozole mexicano"
+  },
+  "assets/cartas/guerrero/chilate.jpg": {
+    "label": "Chilate",
+    "query": "Chilate Guerrero bebida cacao"
+  },
+  "assets/cartas/guerrero/la_quebrada.jpg": {
+    "label": "La Quebrada",
+    "query": "La Quebrada Acapulco clavadistas"
+  },
+  "assets/cartas/guerrero/zihuatanejo.jpg": {
+    "label": "Zihuatanejo",
+    "query": "Zihuatanejo Guerrero bay"
+  },
+  "assets/cartas/guerrero/plata.jpg": {
+    "label": "Plata",
+    "query": "Taxco silver craft"
+  },
+  "assets/cartas/guerrero/palma.jpg": {
+    "label": "Palma",
+    "query": "palm weaving Mexico craft"
+  },
+  "assets/cartas/guerrero/chilpancingo.jpg": {
+    "label": "Chilpancingo",
+    "query": "Chilpancingo Guerrero Mexico"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/55/El_Pueblo_Amuzgo_Zacoalpan_Nonmdaa_Can%27oom_Costa_Chica_de_Guerrero_y_Oaxaca_M%C3%A9xico_Biling%C3%BCe.jpg": {
+    "label": "Costa Chica",
+    "query": "Costa Chica Guerrero Mexico",
+    "source": "File:El Pueblo Amuzgo Zacoalpan Nonmdaa Can'oom Costa Chica de Guerrero y Oaxaca M\u00e9xico Biling\u00fce.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/El_Pueblo_Amuzgo_Zacoalpan_Nonmdaa_Can%27oom_Costa_Chica_de_Guerrero_y_Oaxaca_M%C3%A9xico_Biling%C3%BCe.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grutas_de_Cacahuamilpa.jpg/1280px-Grutas_de_Cacahuamilpa.jpg": {
+    "label": "Grutas",
+    "query": "Grutas de Cacahuamilpa",
+    "source": "File:Grutas de Cacahuamilpa.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grutas_de_Cacahuamilpa.jpg/1280px-Grutas_de_Cacahuamilpa.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/37/Atardecer_en_playa_Ixtapa_Zihuatanejo%2C_Guerrero%2C_M%C3%A9xico.jpg": {
+    "label": "Ixtapa",
+    "query": "Ixtapa Guerrero Mexico",
+    "source": "File:Atardecer en playa Ixtapa Zihuatanejo, Guerrero, M\u00e9xico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Atardecer_en_playa_Ixtapa_Zihuatanejo%2C_Guerrero%2C_M%C3%A9xico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mujer_vendiendo_artesan%C3%ADas_en_Acapulco.jpg/1280px-Mujer_vendiendo_artesan%C3%ADas_en_Acapulco.jpg": {
+    "label": "Artesania",
+    "query": "Guerrero Mexico handicraft",
+    "source": "File:Mujer vendiendo artesan\u00edas en Acapulco.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mujer_vendiendo_artesan%C3%ADas_en_Acapulco.jpg/1280px-Mujer_vendiendo_artesan%C3%ADas_en_Acapulco.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Danza_de_los_Tecuanes.jpg/1280px-Danza_de_los_Tecuanes.jpg": {
+    "label": "Tecuanes",
+    "query": "Danza de los Tecuanes",
+    "source": "File:Danza de los Tecuanes.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Danza_de_los_Tecuanes.jpg/1280px-Danza_de_los_Tecuanes.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baronia_brevicornis_no1_3.jpg/1280px-Baronia_brevicornis_no1_3.jpg": {
+    "label": "Montanas",
+    "query": "Sierra Madre del Sur Guerrero",
+    "source": "File:Baronia brevicornis no1 3.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baronia_brevicornis_no1_3.jpg/1280px-Baronia_brevicornis_no1_3.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mezcal_in_Oaxaca%2C_Mexico.jpg/1280px-Mezcal_in_Oaxaca%2C_Mexico.jpg": {
+    "label": "Mezcal",
+    "query": "Mezcal Oaxaca",
+    "source": "File:Mezcal in Oaxaca, Mexico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mezcal_in_Oaxaca%2C_Mexico.jpg/1280px-Mezcal_in_Oaxaca%2C_Mexico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2018_Desfile_Guelaguetza_Oaxaca_Mexico_32.jpg/1280px-2018_Desfile_Guelaguetza_Oaxaca_Mexico_32.jpg": {
+    "label": "Guelaguetza",
+    "query": "Guelaguetza Oaxaca",
+    "source": "File:2018 Desfile Guelaguetza Oaxaca Mexico 32.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2018_Desfile_Guelaguetza_Oaxaca_Mexico_32.jpg/1280px-2018_Desfile_Guelaguetza_Oaxaca_Mexico_32.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Monte_Alban_Oaxaca_1976_-_Oaxaca_Valley.jpg/1280px-Monte_Alban_Oaxaca_1976_-_Oaxaca_Valley.jpg": {
+    "label": "Monte Alban",
+    "query": "Monte Alban Oaxaca",
+    "source": "File:Monte Alban Oaxaca 1976 - Oaxaca Valley.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Monte_Alban_Oaxaca_1976_-_Oaxaca_Valley.jpg/1280px-Monte_Alban_Oaxaca_1976_-_Oaxaca_Valley.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mole_negro_de_Oaxaca_con_arroz.jpg/1280px-Mole_negro_de_Oaxaca_con_arroz.jpg": {
+    "label": "Mole negro",
+    "query": "Mole negro Oaxaca",
+    "source": "File:Mole negro de Oaxaca con arroz.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mole_negro_de_Oaxaca_con_arroz.jpg/1280px-Mole_negro_de_Oaxaca_con_arroz.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Alebrijes_Oaxaca_Logo_Escudo.png/1280px-Alebrijes_Oaxaca_Logo_Escudo.png": {
+    "label": "Alebrijes",
+    "query": "Alebrijes Oaxaca",
+    "source": "File:Alebrijes Oaxaca Logo Escudo.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Alebrijes_Oaxaca_Logo_Escudo.png/1280px-Alebrijes_Oaxaca_Logo_Escudo.png"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%C3%81rbol-del-Tule-Oaxaca-Mexico.jpg/1280px-%C3%81rbol-del-Tule-Oaxaca-Mexico.jpg": {
+    "label": "Arbol del Tule",
+    "query": "Arbol del Tule Oaxaca",
+    "source": "File:\u00c1rbol-del-Tule-Oaxaca-Mexico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%C3%81rbol-del-Tule-Oaxaca-Mexico.jpg/1280px-%C3%81rbol-del-Tule-Oaxaca-Mexico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Paisaje_desde_Hierve_el_agua%2C_Oaxaca%2C_M%C3%A9xico.jpg/1280px-Paisaje_desde_Hierve_el_agua%2C_Oaxaca%2C_M%C3%A9xico.jpg": {
+    "label": "Hierve el Agua",
+    "query": "Hierve el Agua Oaxaca",
+    "source": "File:Paisaje desde Hierve el agua, Oaxaca, M\u00e9xico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Paisaje_desde_Hierve_el_agua%2C_Oaxaca%2C_M%C3%A9xico.jpg/1280px-Paisaje_desde_Hierve_el_agua%2C_Oaxaca%2C_M%C3%A9xico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museo-Teotitl%C3%A1n_del_Valle-Oaxaca-Mexico.jpg/1280px-Museo-Teotitl%C3%A1n_del_Valle-Oaxaca-Mexico.jpg": {
+    "label": "Teotitlan",
+    "query": "Teotitlan del Valle Oaxaca",
+    "source": "File:Museo-Teotitl\u00e1n del Valle-Oaxaca-Mexico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museo-Teotitl%C3%A1n_del_Valle-Oaxaca-Mexico.jpg/1280px-Museo-Teotitl%C3%A1n_del_Valle-Oaxaca-Mexico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tlayuda_vendor_in_Oaxaca_City.jpg/1280px-Tlayuda_vendor_in_Oaxaca_City.jpg": {
+    "label": "Tlayudas",
+    "query": "Tlayuda Oaxaca",
+    "source": "File:Tlayuda vendor in Oaxaca City.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tlayuda_vendor_in_Oaxaca_City.jpg/1280px-Tlayuda_vendor_in_Oaxaca_City.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/C%C3%A1ntaro_liso_de_barro_negro_de_Oaxaca_de_Ju%C3%A1rez%2C_Oaxaca%2C_M%C3%A9xico.jpg/1280px-C%C3%A1ntaro_liso_de_barro_negro_de_Oaxaca_de_Ju%C3%A1rez%2C_Oaxaca%2C_M%C3%A9xico.jpg": {
+    "label": "Barro negro",
+    "query": "Barro negro Oaxaca pottery",
+    "source": "File:C\u00e1ntaro liso de barro negro de Oaxaca de Ju\u00e1rez, Oaxaca, M\u00e9xico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/C%C3%A1ntaro_liso_de_barro_negro_de_Oaxaca_de_Ju%C3%A1rez%2C_Oaxaca%2C_M%C3%A9xico.jpg/1280px-C%C3%A1ntaro_liso_de_barro_negro_de_Oaxaca_de_Ju%C3%A1rez%2C_Oaxaca%2C_M%C3%A9xico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/80/Oaxaca_ruins_1976_-_Mitla_Window.jpg": {
+    "label": "Mitla",
+    "query": "Mitla Oaxaca",
+    "source": "File:Oaxaca ruins 1976 - Mitla Window.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Oaxaca_ruins_1976_-_Mitla_Window.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Playa_La_Bocana%2C_Huatulco%2C_Oaxaca.jpg/1280px-Playa_La_Bocana%2C_Huatulco%2C_Oaxaca.jpg": {
+    "label": "Huatulco",
+    "query": "Huatulco Oaxaca",
+    "source": "File:Playa La Bocana, Huatulco, Oaxaca.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Playa_La_Bocana%2C_Huatulco%2C_Oaxaca.jpg/1280px-Playa_La_Bocana%2C_Huatulco%2C_Oaxaca.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Turtle_golfina_escobilla_Oaxaca_Mexico_Claudio_Giovenzana_2010.jpg/1280px-Turtle_golfina_escobilla_Oaxaca_Mexico_Claudio_Giovenzana_2010.jpg": {
+    "label": "Mazunte",
+    "query": "Mazunte Oaxaca",
+    "source": "File:Turtle golfina escobilla Oaxaca Mexico Claudio Giovenzana 2010.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Turtle_golfina_escobilla_Oaxaca_Mexico_Claudio_Giovenzana_2010.jpg/1280px-Turtle_golfina_escobilla_Oaxaca_Mexico_Claudio_Giovenzana_2010.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sierra_Norte_Oaxaca_banner.jpg/1280px-Sierra_Norte_Oaxaca_banner.jpg": {
+    "label": "Sierra Norte",
+    "query": "Sierra Norte Oaxaca",
+    "source": "File:Sierra Norte Oaxaca banner.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sierra_Norte_Oaxaca_banner.jpg/1280px-Sierra_Norte_Oaxaca_banner.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/1280px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg": {
+    "label": "Chocolate",
+    "query": "Oaxaca chocolate",
+    "source": "File:Piece of chocolate cake on a white plate decorated with chocolate sauce.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/1280px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Telar_y_tapetes-Teotitl%C3%A1n_del_Valle-Oaxaca-Mexico.jpg/1280px-Telar_y_tapetes-Teotitl%C3%A1n_del_Valle-Oaxaca-Mexico.jpg": {
+    "label": "Tapetes",
+    "query": "Teotitlan del Valle tapetes",
+    "source": "File:Telar y tapetes-Teotitl\u00e1n del Valle-Oaxaca-Mexico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Telar_y_tapetes-Teotitl%C3%A1n_del_Valle-Oaxaca-Mexico.jpg/1280px-Telar_y_tapetes-Teotitl%C3%A1n_del_Valle-Oaxaca-Mexico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PalenqueLetters2020p2.jpg/1280px-PalenqueLetters2020p2.jpg": {
+    "label": "Palenque",
+    "query": "Palenque Chiapas",
+    "source": "File:PalenqueLetters2020p2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PalenqueLetters2020p2.jpg/1280px-PalenqueLetters2020p2.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ca%C3%B1on_del_Sumidero%2C_Chiapas%2C_M%C3%A9xico.jpg/1280px-Ca%C3%B1on_del_Sumidero%2C_Chiapas%2C_M%C3%A9xico.jpg": {
+    "label": "Sumidero",
+    "query": "Canon del Sumidero Chiapas",
+    "source": "File:Ca\u00f1on del Sumidero, Chiapas, M\u00e9xico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ca%C3%B1on_del_Sumidero%2C_Chiapas%2C_M%C3%A9xico.jpg/1280px-Ca%C3%B1on_del_Sumidero%2C_Chiapas%2C_M%C3%A9xico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Guacamaya_roja_en_la_Selva_Lacandona.jpg/1280px-Guacamaya_roja_en_la_Selva_Lacandona.jpg": {
+    "label": "Lacandona",
+    "query": "Selva Lacandona Chiapas",
+    "source": "File:Guacamaya roja en la Selva Lacandona.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Guacamaya_roja_en_la_Selva_Lacandona.jpg/1280px-Guacamaya_roja_en_la_Selva_Lacandona.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adhemarius_donysa_MHNT_CUT_2010_0_31_San_Crist%C3%B3bal_de_Las_Casas_Mexico_female_dorsal.jpg/1280px-Adhemarius_donysa_MHNT_CUT_2010_0_31_San_Crist%C3%B3bal_de_Las_Casas_Mexico_female_dorsal.jpg": {
+    "label": "San Cristobal",
+    "query": "San Cristobal de las Casas",
+    "source": "File:Adhemarius donysa MHNT CUT 2010 0 31 San Crist\u00f3bal de Las Casas Mexico female dorsal.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adhemarius_donysa_MHNT_CUT_2010_0_31_San_Crist%C3%B3bal_de_Las_Casas_Mexico_female_dorsal.jpg/1280px-Adhemarius_donysa_MHNT_CUT_2010_0_31_San_Crist%C3%B3bal_de_Las_Casas_Mexico_female_dorsal.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/El_museo_del_%C3%A1mbar_%2818%29.jpg": {
+    "label": "Ambar",
+    "query": "Ambar de Chiapas",
+    "source": "File:El museo del \u00e1mbar (18).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/El_museo_del_%C3%A1mbar_%2818%29.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Men_in_Cafe_-_San_Cristobal_de_las_Casas_-_Chiapas_-_Mexico_%2815476593757%29.jpg/1280px-Men_in_Cafe_-_San_Cristobal_de_las_Casas_-_Chiapas_-_Mexico_%2815476593757%29.jpg": {
+    "label": "Cafe",
+    "query": "Cafe Chiapas",
+    "source": "File:Men in Cafe - San Cristobal de las Casas - Chiapas - Mexico (15476593757).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Men_in_Cafe_-_San_Cristobal_de_las_Casas_-_Chiapas_-_Mexico_%2815476593757%29.jpg/1280px-Men_in_Cafe_-_San_Cristobal_de_las_Casas_-_Chiapas_-_Mexico_%2815476593757%29.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parque_de_la_Marimba_Tuxtla_Guti%C3%A9rrez_Chiapas.jpg/1280px-Parque_de_la_Marimba_Tuxtla_Guti%C3%A9rrez_Chiapas.jpg": {
+    "label": "Marimba",
+    "query": "Marimba Chiapas",
+    "source": "File:Parque de la Marimba Tuxtla Guti\u00e9rrez Chiapas.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parque_de_la_Marimba_Tuxtla_Guti%C3%A9rrez_Chiapas.jpg/1280px-Parque_de_la_Marimba_Tuxtla_Guti%C3%A9rrez_Chiapas.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bonampak%2C_Chiapas._19.JPG/1280px-Bonampak%2C_Chiapas._19.JPG": {
+    "label": "Bonampak",
+    "query": "Bonampak Chiapas",
+    "source": "File:Bonampak, Chiapas. 19.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bonampak%2C_Chiapas._19.JPG/1280px-Bonampak%2C_Chiapas._19.JPG"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cascadas_de_Agua_Azul2020p3.jpg/1280px-Cascadas_de_Agua_Azul2020p3.jpg": {
+    "label": "Agua Azul",
+    "query": "Cascadas de Agua Azul",
+    "source": "File:Cascadas de Agua Azul2020p3.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cascadas_de_Agua_Azul2020p3.jpg/1280px-Cascadas_de_Agua_Azul2020p3.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/25/Tuxtla_Guti%C3%A9rrez_-_Mosaico_Fotogr%C3%A1fico.png": {
+    "label": "Tuxtla",
+    "query": "Tuxtla Gutierrez",
+    "source": "File:Tuxtla Guti\u00e9rrez - Mosaico Fotogr\u00e1fico.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Tuxtla_Guti%C3%A9rrez_-_Mosaico_Fotogr%C3%A1fico.png"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lagos_de_Montebello%2C_Chiapas_-_panoramio.jpg/1280px-Lagos_de_Montebello%2C_Chiapas_-_panoramio.jpg": {
+    "label": "Lagos",
+    "query": "Lagos de Montebello Chiapas",
+    "source": "File:Lagos de Montebello, Chiapas - panoramio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lagos_de_Montebello%2C_Chiapas_-_panoramio.jpg/1280px-Lagos_de_Montebello%2C_Chiapas_-_panoramio.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bag_of_Maize_-_Zinacantan_-_Chiapas_-_Mexico.jpg/1280px-Bag_of_Maize_-_Zinacantan_-_Chiapas_-_Mexico.jpg": {
+    "label": "Zinacantan",
+    "query": "Zinacantan Chiapas",
+    "source": "File:Bag of Maize - Zinacantan - Chiapas - Mexico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bag_of_Maize_-_Zinacantan_-_Chiapas_-_Mexico.jpg/1280px-Bag_of_Maize_-_Zinacantan_-_Chiapas_-_Mexico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/El_Chifl%C3%B3n_waterfall_-_Chiapas_-_Mexico_-_panoramio.jpg/1280px-El_Chifl%C3%B3n_waterfall_-_Chiapas_-_Mexico_-_panoramio.jpg": {
+    "label": "Cascadas",
+    "query": "El Chiflon Chiapas waterfall",
+    "source": "File:El Chifl\u00f3n waterfall - Chiapas - Mexico - panoramio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/El_Chifl%C3%B3n_waterfall_-_Chiapas_-_Mexico_-_panoramio.jpg/1280px-El_Chifl%C3%B3n_waterfall_-_Chiapas_-_Mexico_-_panoramio.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/89/Chiapas_Tapachula_AP.jpg": {
+    "label": "Tapachula",
+    "query": "Tapachula Chiapas",
+    "source": "File:Chiapas Tapachula AP.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chiapas_Tapachula_AP.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/87/Chiapas_Rainforest_crop.jpg": {
+    "label": "Selva",
+    "query": "Chiapas rainforest",
+    "source": "File:Chiapas Rainforest crop.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Chiapas_Rainforest_crop.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tzotzil_Weavings_-_Zinacantan_-_Chiapas_-_Mexico_12.jpg/1280px-Tzotzil_Weavings_-_Zinacantan_-_Chiapas_-_Mexico_12.jpg": {
+    "label": "Textiles",
+    "query": "Chiapas textiles",
+    "source": "File:Tzotzil Weavings - Zinacantan - Chiapas - Mexico 12.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tzotzil_Weavings_-_Zinacantan_-_Chiapas_-_Mexico_12.jpg/1280px-Tzotzil_Weavings_-_Zinacantan_-_Chiapas_-_Mexico_12.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1280px-Chichen_Itza_3.jpg": {
+    "label": "Chichen Itza",
+    "query": "Chichen Itza",
+    "source": "File:Chichen Itza 3.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1280px-Chichen_Itza_3.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cenote_Zaci_Yucatan_2008.jpg/1280px-Cenote_Zaci_Yucatan_2008.jpg": {
+    "label": "Cenotes",
+    "query": "Cenote Yucatan",
+    "source": "File:Cenote Zaci Yucatan 2008.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cenote_Zaci_Yucatan_2008.jpg/1280px-Cenote_Zaci_Yucatan_2008.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f9/Secando_el_Henequen_Yucatan_1909.jpg": {
+    "label": "Haciendas",
+    "query": "Hacienda Yucatan henequen",
+    "source": "File:Secando el Henequen Yucatan 1909.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Secando_el_Henequen_Yucatan_1909.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Merida%2C_Yucatan_1975_-_Ermita_de_Santa_Isabel.jpg/1280px-Merida%2C_Yucatan_1975_-_Ermita_de_Santa_Isabel.jpg": {
+    "label": "Merida",
+    "query": "Merida Yucatan",
+    "source": "File:Merida, Yucatan 1975 - Ermita de Santa Isabel.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Merida%2C_Yucatan_1975_-_Ermita_de_Santa_Isabel.jpg/1280px-Merida%2C_Yucatan_1975_-_Ermita_de_Santa_Isabel.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cochinita_pibil_2.jpg/1280px-Cochinita_pibil_2.jpg": {
+    "label": "Cochinita pibil",
+    "query": "Cochinita pibil",
+    "source": "File:Cochinita pibil 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cochinita_pibil_2.jpg/1280px-Cochinita_pibil_2.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Baile_jarana_yucateca_-_Ok%27ot_jaarana.jpg/1280px-Baile_jarana_yucateca_-_Ok%27ot_jaarana.jpg": {
+    "label": "Vaqueria",
+    "query": "Vaqueria yucateca",
+    "source": "File:Baile jarana yucateca - Ok'ot jaarana.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Baile_jarana_yucateca_-_Ok%27ot_jaarana.jpg/1280px-Baile_jarana_yucateca_-_Ok%27ot_jaarana.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Izamal%2C_Yucatan%2C_Mexico_-_4_Abril_2021-_Convento.jpg/1280px-Izamal%2C_Yucatan%2C_Mexico_-_4_Abril_2021-_Convento.jpg": {
+    "label": "Izamal",
+    "query": "Izamal Yucatan",
+    "source": "File:Izamal, Yucatan, Mexico - 4 Abril 2021- Convento.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Izamal%2C_Yucatan%2C_Mexico_-_4_Abril_2021-_Convento.jpg/1280px-Izamal%2C_Yucatan%2C_Mexico_-_4_Abril_2021-_Convento.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/This_way_to_the_pyramids%2C_Uxmal%2C_Yucatan%2C_Mexico.jpg/1280px-This_way_to_the_pyramids%2C_Uxmal%2C_Yucatan%2C_Mexico.jpg": {
+    "label": "Uxmal",
+    "query": "Uxmal",
+    "source": "File:This way to the pyramids, Uxmal, Yucatan, Mexico.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/This_way_to_the_pyramids%2C_Uxmal%2C_Yucatan%2C_Mexico.jpg/1280px-This_way_to_the_pyramids%2C_Uxmal%2C_Yucatan%2C_Mexico.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Salbute_y_Panucho_at_El_Maya_Yucatan%2C_SF.jpg/1280px-Salbute_y_Panucho_at_El_Maya_Yucatan%2C_SF.jpg": {
+    "label": "Panuchos",
+    "query": "Panucho Yucatan",
+    "source": "File:Salbute y Panucho at El Maya Yucatan, SF.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Salbute_y_Panucho_at_El_Maya_Yucatan%2C_SF.jpg/1280px-Salbute_y_Panucho_at_El_Maya_Yucatan%2C_SF.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mt_Uluguru_and_Sisal_plantations.jpg/1280px-Mt_Uluguru_and_Sisal_plantations.jpg": {
+    "label": "Sisal",
+    "query": "Sisal Yucatan",
+    "source": "File:Mt Uluguru and Sisal plantations.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mt_Uluguru_and_Sisal_plantations.jpg/1280px-Mt_Uluguru_and_Sisal_plantations.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Celestun_Flamingos_-_BANG%21.jpg/1280px-Celestun_Flamingos_-_BANG%21.jpg": {
+    "label": "Flamingos",
+    "query": "Flamingos Celestun Yucatan",
+    "source": "File:Celestun Flamingos - BANG!.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Celestun_Flamingos_-_BANG%21.jpg/1280px-Celestun_Flamingos_-_BANG%21.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Vista_del_Museo_de_la_Canci%C3%B3n_Yucateca_en_M%C3%A9rida_09.jpg/1280px-Vista_del_Museo_de_la_Canci%C3%B3n_Yucateca_en_M%C3%A9rida_09.jpg": {
+    "label": "Trova yucateca",
+    "query": "Trova yucateca",
+    "source": "File:Vista del Museo de la Canci\u00f3n Yucateca en M\u00e9rida 09.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Vista_del_Museo_de_la_Canci%C3%B3n_Yucateca_en_M%C3%A9rida_09.jpg/1280px-Vista_del_Museo_de_la_Canci%C3%B3n_Yucateca_en_M%C3%A9rida_09.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Merida_Yucatan_Mexico_-_Hamacas_Canmi.jpg/1280px-Merida_Yucatan_Mexico_-_Hamacas_Canmi.jpg": {
+    "label": "Hamacas",
+    "query": "Hamaca Yucatan",
+    "source": "File:Merida Yucatan Mexico - Hamacas Canmi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Merida_Yucatan_Mexico_-_Hamacas_Canmi.jpg/1280px-Merida_Yucatan_Mexico_-_Hamacas_Canmi.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Valladolid%2C_Yucatan%2C_Mexico_-_Biblioteca.jpg/1280px-Valladolid%2C_Yucatan%2C_Mexico_-_Biblioteca.jpg": {
+    "label": "Valladolid",
+    "query": "Valladolid Yucatan",
+    "source": "File:Valladolid, Yucatan, Mexico - Biblioteca.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Valladolid%2C_Yucatan%2C_Mexico_-_Biblioteca.jpg/1280px-Valladolid%2C_Yucatan%2C_Mexico_-_Biblioteca.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4e/Presidencia_Municipal_de_Mayap%C3%A1n.jpg": {
+    "label": "Mayapan",
+    "query": "Mayapan Yucatan",
+    "source": "File:Presidencia Municipal de Mayap\u00e1n.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Presidencia_Municipal_de_Mayap%C3%A1n.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jarana_Yucateca_01.jpg/1280px-Jarana_Yucateca_01.jpg": {
+    "label": "Jarana",
+    "query": "Jarana yucateca",
+    "source": "File:Jarana Yucateca 01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jarana_Yucateca_01.jpg/1280px-Jarana_Yucateca_01.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Agouti_Tulum_Take_2.jpg/1280px-Agouti_Tulum_Take_2.jpg": {
+    "label": "Tulum",
+    "query": "Tulum Quintana Roo",
+    "source": "File:Agouti Tulum Take 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Agouti_Tulum_Take_2.jpg/1280px-Agouti_Tulum_Take_2.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bacalar%2C_Quintana_Roo%2C_Mexico_2021_-_Club_Naval.jpg/1280px-Bacalar%2C_Quintana_Roo%2C_Mexico_2021_-_Club_Naval.jpg": {
+    "label": "Bacalar",
+    "query": "Bacalar Quintana Roo",
+    "source": "File:Bacalar, Quintana Roo, Mexico 2021 - Club Naval.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bacalar%2C_Quintana_Roo%2C_Mexico_2021_-_Club_Naval.jpg/1280px-Bacalar%2C_Quintana_Roo%2C_Mexico_2021_-_Club_Naval.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pedras_estra%C3%B1as._Praia_do_Hotel_Bah%C3%ADa_Pr%C3%ADncipe%2C_Quintana_Roo%2C_M%C3%A9xico_2.jpg/1280px-Pedras_estra%C3%B1as._Praia_do_Hotel_Bah%C3%ADa_Pr%C3%ADncipe%2C_Quintana_Roo%2C_M%C3%A9xico_2.jpg": {
+    "label": "Arrecife",
+    "query": "Mesoamerican Barrier Reef",
+    "source": "File:Pedras estra\u00f1as. Praia do Hotel Bah\u00eda Pr\u00edncipe, Quintana Roo, M\u00e9xico 2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pedras_estra%C3%B1as._Praia_do_Hotel_Bah%C3%ADa_Pr%C3%ADncipe%2C_Quintana_Roo%2C_M%C3%A9xico_2.jpg/1280px-Pedras_estra%C3%B1as._Praia_do_Hotel_Bah%C3%ADa_Pr%C3%ADncipe%2C_Quintana_Roo%2C_M%C3%A9xico_2.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Iguana_-_Quintana_Roo_-_M%C3%A9xico_5.jpg/1280px-Iguana_-_Quintana_Roo_-_M%C3%A9xico_5.jpg": {
+    "label": "Chetumal",
+    "query": "Chetumal Quintana Roo",
+    "source": "File:Iguana - Quintana Roo - M\u00e9xico 5.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Iguana_-_Quintana_Roo_-_M%C3%A9xico_5.jpg/1280px-Iguana_-_Quintana_Roo_-_M%C3%A9xico_5.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/53/Holbox%2C_Quintana_Roo_%2833307926366%29.jpg": {
+    "label": "Holbox",
+    "query": "Holbox Quintana Roo",
+    "source": "File:Holbox, Quintana Roo (33307926366).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Holbox%2C_Quintana_Roo_%2833307926366%29.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cozumel%2C_Quintana_Roo%2C_Mexico_-_Malecon_Vocho_y_Taxi.jpg/1280px-Cozumel%2C_Quintana_Roo%2C_Mexico_-_Malecon_Vocho_y_Taxi.jpg": {
+    "label": "Cozumel",
+    "query": "Cozumel Quintana Roo",
+    "source": "File:Cozumel, Quintana Roo, Mexico - Malecon Vocho y Taxi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cozumel%2C_Quintana_Roo%2C_Mexico_-_Malecon_Vocho_y_Taxi.jpg/1280px-Cozumel%2C_Quintana_Roo%2C_Mexico_-_Malecon_Vocho_y_Taxi.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mahahual%2C_M%C3%A9xico_-_Semana_Santa_2009.jpg": {
+    "label": "Mahahual",
+    "query": "Mahahual Quintana Roo",
+    "source": "File:Mahahual, M\u00e9xico - Semana Santa 2009.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mahahual%2C_M%C3%A9xico_-_Semana_Santa_2009.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bacalar_-Cenote_Azul_-_panoramio.jpg": {
+    "label": "Cenote Azul",
+    "query": "Cenote Azul Bacalar",
+    "source": "File:Bacalar -Cenote Azul - panoramio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bacalar_-Cenote_Azul_-_panoramio.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bird_watch_at_a_tower_in_Sian_Ka%27an_-_panoramio.jpg/1280px-Bird_watch_at_a_tower_in_Sian_Ka%27an_-_panoramio.jpg": {
+    "label": "Sian Kaan",
+    "query": "Sian Ka'an Quintana Roo",
+    "source": "File:Bird watch at a tower in Sian Ka'an - panoramio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bird_watch_at_a_tower_in_Sian_Ka%27an_-_panoramio.jpg/1280px-Bird_watch_at_a_tower_in_Sian_Ka%27an_-_panoramio.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f5/Riviera_Maya_Photo_001.jpg": {
+    "label": "Playa",
+    "query": "Riviera Maya beach",
+    "source": "File:Riviera Maya Photo 001.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Riviera_Maya_Photo_001.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Church_of_the_Immaculate_Conception_Isla_Mujeres_2017.jpg/1280px-Church_of_the_Immaculate_Conception_Isla_Mujeres_2017.jpg": {
+    "label": "Isla Mujeres",
+    "query": "Isla Mujeres Quintana Roo",
+    "source": "File:Church of the Immaculate Conception Isla Mujeres 2017.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Church_of_the_Immaculate_Conception_Isla_Mujeres_2017.jpg/1280px-Church_of_the_Immaculate_Conception_Isla_Mujeres_2017.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Green_Sea_Turtle_grazing_seagrass.jpg/1280px-Green_Sea_Turtle_grazing_seagrass.jpg": {
+    "label": "Akumal",
+    "query": "Akumal Quintana Roo",
+    "source": "File:Green Sea Turtle grazing seagrass.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Green_Sea_Turtle_grazing_seagrass.jpg/1280px-Green_Sea_Turtle_grazing_seagrass.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mangrove_Mollies_%28Poecilia_orri%29_-_Carwash_Cenote_QR.jpg/1280px-Mangrove_Mollies_%28Poecilia_orri%29_-_Carwash_Cenote_QR.jpg": {
+    "label": "Manglar",
+    "query": "Mangrove Quintana Roo",
+    "source": "File:Mangrove Mollies (Poecilia orri) - Carwash Cenote QR.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mangrove_Mollies_%28Poecilia_orri%29_-_Carwash_Cenote_QR.jpg/1280px-Mangrove_Mollies_%28Poecilia_orri%29_-_Carwash_Cenote_QR.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Manatee_1_%284386655651%29.jpg/1280px-Manatee_1_%284386655651%29.jpg": {
+    "label": "Manati",
+    "query": "Manatee Mexico",
+    "source": "File:Manatee 1 (4386655651).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Manatee_1_%284386655651%29.jpg/1280px-Manatee_1_%284386655651%29.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sea_temperature_of_Gulf_of_Mexico_and_Caribbean_Sea_2024-10-28_to_2024-11-03.gif": {
+    "label": "Caribe",
+    "query": "Caribbean Sea Mexico",
+    "source": "File:Sea temperature of Gulf of Mexico and Caribbean Sea 2024-10-28 to 2024-11-03.gif",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sea_temperature_of_Gulf_of_Mexico_and_Caribbean_Sea_2024-10-28_to_2024-11-03.gif"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pedras_estra%C3%B1as._Praia_do_Hotel_Bah%C3%ADa_Pr%C3%ADncipe%2C_Quintana_Roo%2C_M%C3%A9xico_3.jpg/1280px-Pedras_estra%C3%B1as._Praia_do_Hotel_Bah%C3%ADa_Pr%C3%ADncipe%2C_Quintana_Roo%2C_M%C3%A9xico_3.jpg": {
+    "label": "Coral",
+    "query": "Coral reef Quintana Roo",
+    "source": "File:Pedras estra\u00f1as. Praia do Hotel Bah\u00eda Pr\u00edncipe, Quintana Roo, M\u00e9xico 3.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pedras_estra%C3%B1as._Praia_do_Hotel_Bah%C3%ADa_Pr%C3%ADncipe%2C_Quintana_Roo%2C_M%C3%A9xico_3.jpg/1280px-Pedras_estra%C3%B1as._Praia_do_Hotel_Bah%C3%ADa_Pr%C3%ADncipe%2C_Quintana_Roo%2C_M%C3%A9xico_3.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Leguan_Chichen_Itza.jpg/1280px-Leguan_Chichen_Itza.jpg": {
+    "label": "Cenote Sagrado",
+    "query": "Cenote Sagrado Chichen Itza",
+    "source": "File:Leguan Chichen Itza.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Leguan_Chichen_Itza.jpg/1280px-Leguan_Chichen_Itza.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Poc_Chuc_Torta_at_Yucatasia.jpg/1280px-Poc_Chuc_Torta_at_Yucatasia.jpg": {
+    "label": "Poc chuc",
+    "query": "Poc chuc",
+    "source": "File:Poc Chuc Torta at Yucatasia.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Poc_Chuc_Torta_at_Yucatasia.jpg/1280px-Poc_Chuc_Torta_at_Yucatasia.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dzibilchaltun_1981_04.jpg/1280px-Dzibilchaltun_1981_04.jpg": {
+    "label": "Dzibilchaltun",
+    "query": "Dzibilchaltun",
+    "source": "File:Dzibilchaltun 1981 04.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dzibilchaltun_1981_04.jpg/1280px-Dzibilchaltun_1981_04.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Turbina_corymbosa.jpg/1280px-Turbina_corymbosa.jpg": {
+    "label": "Xtabentun",
+    "query": "Xtabentun",
+    "source": "File:Turbina corymbosa.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Turbina_corymbosa.jpg/1280px-Turbina_corymbosa.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mani_Yucatan_MACHISMO.jpg/1280px-Mani_Yucatan_MACHISMO.jpg": {
+    "label": "Mani",
+    "query": "Mani Yucatan",
+    "source": "File:Mani Yucatan MACHISMO.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mani_Yucatan_MACHISMO.jpg/1280px-Mani_Yucatan_MACHISMO.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Las_Coloradas_Yucat%C3%A1n.jpg/1280px-Las_Coloradas_Yucat%C3%A1n.jpg": {
+    "label": "Las Coloradas",
+    "query": "Las Coloradas Yucatan",
+    "source": "File:Las Coloradas Yucat\u00e1n.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Las_Coloradas_Yucat%C3%A1n.jpg/1280px-Las_Coloradas_Yucat%C3%A1n.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ruta_Puuc_mappa.jpg/1280px-Ruta_Puuc_mappa.jpg": {
+    "label": "Ruta Puuc",
+    "query": "Ruta Puuc Yucatan",
+    "source": "File:Ruta Puuc mappa.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ruta_Puuc_mappa.jpg/1280px-Ruta_Puuc_mappa.jpg"
+  }
+}
